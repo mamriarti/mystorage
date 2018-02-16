@@ -81,7 +81,14 @@
                 <div class="title m-b-md">
                     Laravel Framework 5.6.3
                 </div>
+                    <h2>
+                    Установлено для работы с проектом Никиты Бронникова
 
+                    </h2>
+                <div class="links">
+                    <a href="https://github.com/mamriarti/mystorage">Репозиторий проекта на гитхабе</a>
+                    
+                </div>
             </div>
         </div>
     </body>
